@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: #ffffff;
+	font-family: 'Roboto', sans-serif;
+}
+
+main {
+	max-width: 800px;
+	width: 90%;
+	margin: auto;
+	padding: 40px;
+}
+
+input{
+	border: 1px solid black ;
+}
+
+
+.selector{
+	border: 1px solid black  ;
+	border-radius: 4px;
+}
+
+.selector:focus{
+	border: 3px solid #0075FF;
+	outline: none;
+	box-shadow: 3px 0px 30px rgba(163,163,163, 0.4);
+}
+
+
+.title{
+	text-transform: capitalize;
+
+}
