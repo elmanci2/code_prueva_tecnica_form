@@ -25,9 +25,16 @@ Para mandar los datos almacenados  realice una petición post a =>[https://pru
 
 # Front
 
-prueva en vivo => [https://elmanci2.github.io/form-technical-test/]()
+```bash
+prueva en vivo => https://elmanci2.github.io/form-technical-test/
+```
 
-ver codigo => [https://github.com/elmanci2/code_prueva_tecnica_form.git]()
+
+```bash
+ver codigo => https://github.com/elmanci2/code_prueva_tecnica_form.git
+```
+
+
 
 
 # uso 
